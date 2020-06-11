@@ -12,14 +12,12 @@ html, body {
 }
 
 .content {
-  max-width: 400px;
+  max-width: 500px;
   width: 100%;
 }
 
 .card {
   display: flex;
-
-  width: 100%;
 
   background: white;
 
